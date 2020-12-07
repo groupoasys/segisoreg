@@ -1,2 +1,1 @@
-# segisoreg
-Segmented Isotonic Regression
+# Segmented Isotonic Regression
